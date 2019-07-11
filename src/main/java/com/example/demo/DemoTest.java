@@ -4,5 +4,6 @@ public class DemoTest {
 
     public void test(){
         System.out.printf("hello world!");
+        System.out.printf("test github");
     }
 }
