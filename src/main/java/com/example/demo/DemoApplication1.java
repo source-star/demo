@@ -12,8 +12,5 @@ public class DemoApplication1 {
 		System.out.printf("3");
 		SpringApplication.run(DemoApplication1.class, args);
 		System.out.printf("4");
-		System.out.printf("5");
-		System.out.printf("6");
-		System.out.printf("7");
 	}
 }
