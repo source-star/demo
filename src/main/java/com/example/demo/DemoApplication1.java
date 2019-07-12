@@ -12,5 +12,6 @@ public class DemoApplication1 {
 		
 		
 		System.out.printf("Hello World111");
+		System.out.printf("Hello World111");
 	}
 }
