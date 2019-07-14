@@ -5,3 +5,5 @@ learn git and github
 go back
 
 git add . 
+
+git commit -m
