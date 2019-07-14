@@ -3,3 +3,5 @@
 learn git and github
 #2019-07-14
 go back
+
+git add . 
