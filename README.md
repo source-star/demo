@@ -7,6 +7,3 @@ go back
 git add . 
 
 git commit -m
-
-#注意实现
-mongoDB
